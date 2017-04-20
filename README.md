@@ -1,14 +1,15 @@
 # trulyergonomic
 
+TEC to OEM PBT keycaps profile
 
-E - R4
-D - R3 
-C - R2
-B - R1 
-A - 
+* E - R4
+* D - R3 
+* C - R2
+* B - R1 
+* A - 
 
 
-Some keycaps packages may have flat letterkeycaps profile
+Some keycaps packages may have flat letter keycaps profile
 
 
 
